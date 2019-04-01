@@ -1,6 +1,6 @@
 ---
 title: Sign Up for Announcements
-date: 2 April 2019
+date: 2019-04-02
 ---
 # Tell me about MatchMaker Ed labs!
 
