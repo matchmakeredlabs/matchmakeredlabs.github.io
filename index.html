@@ -7,6 +7,58 @@ date: 2019-03-18
 <head>
     <title>{{ page.title }}</title>
     {% include head.html %}
+    <style type="text/css">
+
+#bannersection {
+    width: 100%;
+    overflow: hidden;
+    margin: 1em 0 0 0;
+}
+
+.banner {
+    height: 300px;
+    width: 1940px;
+}
+
+.firstImg {
+    -webkit-animation: bannermove 30s linear infinite;
+    -moz-animation: bannermove 30s linear infinite;
+    -ms-animation: bannermove 30s linear infinite;
+    -o-animation: bannermove 30s linear infinite;
+    animation: bannermove 30s linear infinite;
+    margin: 0 5px 0 0;
+}
+
+.laterImg {
+    margin: 0 5px 0 0;
+}
+
+@keyframes "bannermove" {
+  0%   { margin-left: 0px; }
+  100% { margin-left: -970px; }
+}
+
+@-moz-keyframes bannermove {
+  0%   { margin-left: 0px; }
+  100% { margin-left: -970px; }
+}
+
+@-webkit-keyframes "bannermove" {
+  0%   { margin-left: 0px; }
+  100% { margin-left: -970px; }
+}
+
+@-ms-keyframes "bannermove" {
+  0%   { margin-left: 0px; }
+  100% { margin-left: -970px; }
+}
+
+@-o-keyframes "bannermove" {
+  0%   { margin-left: 0px; }
+  100% { margin-left: -970px; }
+}
+
+    </style>
 </head>
 
 <body>
@@ -18,8 +70,15 @@ date: 2019-03-18
             <div style="text-align: center; font-size: 1.5em; font-weight: bold; margin-top: 1.5em;">Coming Soon...</div>
             <div style="text-align: center; font-size: 1.2em; margin-top: 1.5em;"><a href="tellmemore.html">Tell me more!</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="tellmemore.html">Sign up to learn more!</a></div>
 
-            <div style="padding: 0.5em 0 0.5em 0">
-                <div style="width: 480px; height: 300px; background-color: aqua;">Image placeholder;</div>
+            <div id="bannersection">
+                <div class="banner">
+                    <img src="Image01.JPG" width="480" height="300" class="firstImg" />
+                    <img src="Image02.JPG" width="480" height="300" class="laterImg" />
+                    <img src="Image01.JPG" width="480" height="300" class="laterImg" />
+                    <img src="Image02.JPG" width="480" height="300" class="laterImg" />
+                    <img src="Image01.JPG" width="480" height="300" class="laterImg" />
+                    <img src="Image02.JPG" width="480" height="300" class="laterImg" />
+                </div>
             </div>
         </main>
     </div>
