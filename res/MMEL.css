@@ -441,5 +441,7 @@ table.layout th, table.layout td {
 }
 
 table.custom th, table.custom td {
-    border: 0 none white;
+    border-width: 1px;
+    border-color: black;
+    border-style: none;
 }
