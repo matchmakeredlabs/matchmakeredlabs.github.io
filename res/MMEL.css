@@ -439,3 +439,7 @@ table.layout th, table.layout td {
     border: 0 none white;
     padding: 0;
 }
+
+table.custom th, table.custom td {
+    border: 0 none white;
+}
