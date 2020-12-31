@@ -7,6 +7,8 @@ exclude:
   - README.md
   - docker-compose.yml
   - .gitignore
+  - .sass-cache/
+  - .jekyll-cache/
 defaults:
   -
     scope:
