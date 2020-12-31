@@ -6,3 +6,19 @@
 // Example of a variable override to change theme's background color
 // Remove the "//" to comment it in and see it in action!
 // $body-bg: #12263F;
+
+// MatchMaker Colors
+$mm-red: #D9541E;
+$mm-green: #5D9732;
+$mm-blue: #0067B1;
+$mm-orange: #D18316;
+
+// Principal Bootstrap colors
+$primary-dark: #564CAF;
+$primary: #6658EA;
+$primary-light: #687DED;
+$success: $mm-green;
+$warning: $mm-orange;
+$danger: $mm-red;
+$light: #F3F8FF;
+$dark: #004374; // Darkened version of MatchMaker Blue
