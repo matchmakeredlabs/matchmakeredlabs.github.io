@@ -5,15 +5,20 @@ markdown: kramdown
 layout: default
 exclude:
   - README.md
+  - docker-compose.yml
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
   -
     scope:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "cards"
+    values:
+      layout: "card"
+collections:
+  cards:
+    output: true
+    permalink: /cards/:path.html
