@@ -6,6 +6,7 @@ layout: default
 exclude:
   - README.md
   - docker-compose.yml
+  - .gitignore
 defaults:
   -
     scope:
@@ -22,3 +23,5 @@ collections:
   cards:
     output: true
     permalink: /cards/:path.html
+sass:
+  sass_dir: _sass
