@@ -5,6 +5,7 @@ markdown: kramdown
 layout: default
 exclude:
   - README.md
+  - LICENSE
   - docker-compose.yml
   - .gitignore
   - .sass-cache/
