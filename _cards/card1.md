@@ -5,7 +5,7 @@ title: Card1
     <img width="24" height="24" src="/assets/img/icons/building.svg" />
 </div>
 
-# The Competency Based Learning Industry (CBLI)  <br/>A Growth Industry
+# The Competency Based Learning Industry (CBLI) <br/> A Growth Industry
 
 In the CBL ecosystem, in this particular moment in time, the opportuny to <br/>grow your business (e.g., expand into new markets, expand product lines, grow revenue, etc.) and/or <br/>improve your success metris (e.g., successful hire selection, required knowledge mastered, seemless jurisdictional transfers, etc.) <br/>is HUGE.
 <br/>In 20XX, taken together, the public and private CBL sectorsmarket exceeded a whopping $XXX in revenue.  <br/>Craddle to grave, MatchMaker enables educational organizations and suppliers conducting business in CBL, from publishers to platforms to products to service providers and beyond to grow their business and/or impove thier results (e.g.,successful hire selection, required knowledge mastered, seemless jurisdictional transfers). 
