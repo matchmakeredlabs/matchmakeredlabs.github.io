@@ -1,6 +1,7 @@
 siteName: MatchMaker Education Labs, PBC.
 footerTagline: "MatchMaker enables actionable insights into your customers requirements."
 tagPhrase: "MatchMaker's rich mapping technology enables organizations serving the <br/>Competency Based Learning Industry (CBLI) <br/>to produce meaningful matches across:<br/>"
+
 tagOptions:
   - competency(s)
   - skill(s)
