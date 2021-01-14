@@ -1,6 +1,6 @@
 ---
 title: Card1
----,
+----
 <div class="icon text-primary-light mx-auto mb-4">
     <img width="24" height="24" src="/assets/img/icons/building.svg" />
 </div>
