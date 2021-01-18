@@ -13,6 +13,12 @@ $mm-green: #5D9732;
 $mm-blue: #0067B1;
 $mm-orange: #D18316;
 
+// Font sizes for titling
+$display1-size:               6rem !default;
+$display2-size:               5.5rem !default;
+$display3-size:               3.0rem !default;
+$display4-size:               1.5rem !default;
+
 // Principal Bootstrap colors
 $primary-dark: #564CAF;
 $primary: #6658EA;
@@ -22,3 +28,11 @@ $warning: $mm-orange;
 $danger: $mm-red;
 $light: #F3F8FF;
 $dark: #004374; // Darkened version of MatchMaker Blue
+
+
+.card img {
+    height: 8em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
