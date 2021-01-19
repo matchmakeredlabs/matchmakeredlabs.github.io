@@ -10,4 +10,4 @@ The purpose of a benefit corporation is to create general public benefit, which 
 positive impact on society and the environment, i.e. maximum positive externalities and minimum
 negative. (benefitcorp.net)
 
-Matchmaker Educaion Labs envisions a world in which *Leaning is Liberated*.
+MatchMaker Educaion Labs envisions a world in which *Leaning is Liberated*.
