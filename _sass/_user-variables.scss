@@ -12,6 +12,8 @@ $mm-red: #D9541E;
 $mm-green: #5D9732;
 $mm-blue: #0067B1;
 $mm-orange: #D18316;
+$mm-darkblue: #004374;
+$mm-lightblue: #006ebd;
 
 // Font sizes for titling
 $display1-size:               6rem;
@@ -25,14 +27,14 @@ $display3-size-sm: 2rem; // 40px
 $display4-size-sm: 1.5rem; // 36px
 
 // Principal Bootstrap colors
-$primary-dark: #564CAF;
-$primary: #6658EA;
-$primary-light: #687DED;
+$primary-dark:$mm-darkblue;
+$primary: $mm-blue;
+$primary-light: $mm-lightblue;
 $success: $mm-green;
 $warning: $mm-orange;
 $danger: $mm-red;
 $light: #F3F8FF;
-$dark: #004374; // Darkened version of MatchMaker Blue
+$dark: $mm-darkblue;
 
 
 $navbar-brand-font-size: $display3-size;
@@ -42,4 +44,10 @@ $navbar-brand-font-size: $display3-size;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.mm-hover {
+    text-decoration: underline;
+    color: $mm-darkblue;
+    cursor: pointer;
 }
