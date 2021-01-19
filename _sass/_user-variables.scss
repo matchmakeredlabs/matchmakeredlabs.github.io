@@ -45,3 +45,9 @@ $navbar-brand-font-size: $display3-size;
     margin-left: auto;
     margin-right: auto;
 }
+
+.mm-hover {
+    text-decoration: underline;
+    color: $mm-darkblue;
+    cursor: pointer;
+}
