@@ -8,4 +8,4 @@ title: Card2
 
 ![Alt Text for Sample Image](/mmassets/graphic_tools.svg)
 
-**Text 2:** As a result of MatchMaker Education Labs’ rich matching technology, all parties in learning resource access and retrieval value chain win:<br/>"1.	Your pertinent resources will be found!<br/>2.	Institutions and educators find the best resources to address their students’ needs.<br/>3.	Students have access to learning resources that enable them to master required competencies.<br/>Win-Win-Win   
+**Text 2:** As a result of MatchMaker Education Labs’ rich matching technology, all parties in learning resource access and retrieval value chain win:<br/>1.	Your pertinent resources will be found!<br/>2.	Institutions and educators find the best resources to address their students’ needs.<br/>3.	Students have access to learning resources that enable them to master required competencies.<br/>Win-Win-Win   
