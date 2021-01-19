@@ -2,7 +2,10 @@
 title: MatchMaker Education Labs' Mission Driven Team
 ---
 **Michael Jay** - A founding member of Apple Classroom of Tomorrow and the architect behind MediaSeek, Michael is recognized as an expert industry leader. Successes in driving scalable, sustainable improvement earned Jay the 2020 EdTech Industry Impact Award. Michael is highly skilled at assembling high performing teams that generate breakthrough solutions that make a measurable difference in the lives of all learners.<br/>
+
 **Eileen Lento** - Having led the Education World-Wide Marketing and Advocacy Team at Intel Corporation, Eileen is a retired Air Force Officer and former faculty member in the School of Education and Social Policy at Northwestern University. Eileen brings a truly unique blend of expertise ranging from deep subject knowledge, proven business acumen, management-leadership know-how, along with an entrepreneurial spirit.<br/>
+
 **Brandt Redd** – The former CTO of Smarter Balance, Brandt is a successful serial entrepreneur, CTO, and acclaimed education technology visionary. Brandt has shepherded four startups including Agilix and Ancestry to profitability. Renowned for expertise that spans from the strategic to the highly technical, Brandt is a recognized community leader and influencer in technology standards associated with education.<br/>
+
 **Melissa Rich** – Founder & CEO of InterSchola (Inc. Magazine’s 5000 Fastest Growing Companies list), award-winning social impact entrepreneur and venture capital professional. Named one of BusinessWeek’s Top 5 Social Entrepreneurs, Women 2.0’s Female Founder to Watch, and San Francisco Women’s Initiative Woman Entrepreneur for 2015, Melissa adeptly drives market strategy, scalable growth, and measurable impact models.<br/>
 
