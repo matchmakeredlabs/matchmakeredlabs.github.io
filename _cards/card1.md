@@ -1,6 +1,6 @@
 ---
 title: MatchMaker empowers the CBLI to be nimble.
-----
+---
 <div class="icon text-primary-light mx-auto mb-4">
     <img width="24" height="24" src="/assets/img/icons/building.svg" />
 </div>

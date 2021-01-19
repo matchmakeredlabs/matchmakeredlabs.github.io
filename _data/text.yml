@@ -1,12 +1,12 @@
 siteName: MatchMaker Education Labs, PBC
-footerTagline: "MatchMaker enables actionable insights into your customers' requirements."
 tagPhrase: "MatchMaker Education Labs' core technology enables organizations<br/>to produce meaningful matches between:<br/>"
 tagOptions:
-  - Learning Resources & Competencies.
-  - Competencies & Job Skills.
-  - Job Skills & Training Programs.
-  - Training Programs & Job Requirements.
-  - Job Requirements & Undergraduate Programs.
-  - Undergraduate Programs & Learner Records.
+  - Learning Resources &amp; Competencies.
+  - Competencies &amp; Job Skills.
+  - Job Skills &amp; Training Programs.
+  - Training Programs &amp; Job Requirements.
+  - Job Requirements &amp; Undergraduate Programs.
+  - Undergraduate Programs &amp; Learner Records.
   - So on...
 leadLine: "Serving the Competency Based Learning Industry (CBLI)<br/>to turn customer requirements into actionable insights."
+footerTagline: "MatchMaker enables actionable insights into your customers' requirements."

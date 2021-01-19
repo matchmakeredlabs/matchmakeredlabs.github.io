@@ -18,17 +18,14 @@ layout: none
           <div class="col-md-12 col-xl-10 text-center">
 
             <!-- Heading -->
-            <h1 class="display-2 mb-4" style="font-size: 1.5rem;">
+            <h1 class="display-4 mb-4">
               {{- site.data.text.tagPhrase }} 
-                <span class="text-underline-warning d-none d-xl-inline">
-                  <span data-typed data-options='{"strings": [
-                    {%- for opt in site.data.text.tagOptions -%}
-                      {%- unless forloop.first -%},{%- endunless -%}
-                      "{{- opt -}}."
-                    {%- endfor -%}
-                    ]}'>
-                  </span>
-                </span>
+              <span data-typed data-options='{"strings": [""
+                {%- for opt in site.data.text.tagOptions -%}
+                  ,"{{- opt | escape -}}"
+                {%- endfor -%}
+                ]}'>
+              </span>
             </h1>
 
           </div>
