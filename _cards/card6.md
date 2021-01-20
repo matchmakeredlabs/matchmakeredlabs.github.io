@@ -5,8 +5,7 @@ title: Card6
 
 ## A student must transfer from one University to another
 
-A student is pursuing a mechanical engineering degree at the University of Texas.  For family reasons, the student must relocate and will be transferring to the University of Vermont. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. Current solutions are inadequate to produce mappings from the University of Texas that the University of Vermont will accept.  
-*Enter MatchMaker Education Labs:*
+A student is pursuing a mechanical engineering degree at the University of Texas.  For family reasons, the student must relocate and will be transferring to the University of Vermont. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. Current solutions are inadequate to produce mappings from the University of Texas that the University of Vermont will accept. *Enter MatchMaker Education Labs:*
 
 ![Alt Text for Sample Image](/mmassets/Uni-Transfer.svg)
 
