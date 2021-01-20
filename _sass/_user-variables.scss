@@ -44,6 +44,10 @@ $dark: $mm-darkblue;
 
 $navbar-brand-font-size: $display3-size;
 
+.navbar {
+    background-color: white;
+}
+
 .card img {
     height: 10em;
     display: block;
