@@ -5,7 +5,7 @@ title: Card4
 
 ## An educational publisher seeking to sell an offering into multiple public school jurisdictions, each with their own curriculum standards
 
-Each year various States conduct textbook adoptions.  Each of the fifty states approach K-12 curricular requirements differently. While most States address largely the same standards, competencies, and skills, each jurisdiction documents those using different language and organization. Due to the nuanced differences between State’s Curriculum Standards, the mapping of competencies, skills, and requirements across various jurisdictions has proven extremely challenging and an ongoing cost for suppliers of learning resources.*Enter MatchMaker Education Labs:*
+Each year various States conduct textbook adoptions.  Each of the fifty states approach K-12 curricular requirements differently. While most States address largely the same standards, competencies, and skills, each jurisdiction documents those using different language and organization. Due to the nuanced differences between State’s Curriculum Standards, the mapping of competencies, skills, and requirements across various jurisdictions has proven extremely challenging and an ongoing cost for suppliers of learning resources.* Enter MatchMaker Education Labs:*
 ![Alt Text for Sample Image](/mmassets/Product.svg)
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in the standards alignment value chain win:
