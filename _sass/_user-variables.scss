@@ -60,3 +60,19 @@ $navbar-brand-font-size: $display3-size;
 .card>:last-child {
     margin-bottom: 0;
 }
+
+.mm-endorsements {
+    background-color: white;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    border-radius: 1rem;
+}
+
+.mm-endorsements>div {
+    height: 4rem;
+    margin: 0.25rem;
+    vertical-align: middle;
+}

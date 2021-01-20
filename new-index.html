@@ -44,7 +44,7 @@ layout: none
 
 
     <!-- Card Stack -->
-    <section class="pt-10 pt-md-12 bg-dark">
+    <section class="pt-10 bg-dark">
       <div class="container-lg">
         <div class="row">
           <div class="col-12">
@@ -71,6 +71,28 @@ layout: none
             <!-- End Card Stack Section -->
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Supports -->
+    <section class="pt-4 bg-dark">
+      <div class="container-lg">
+        <div class="row">
+          <div class="col-md-5">
+    
+            <!-- Brand -->
+            <h2 class="font-family-serif text-white mb-1">
+              {{ site.data.text.siteName }}
+            </h2>
+    
+            <!-- Text -->
+            <p class="text-white-60">
+              {{ site.data.text.footerTagline }}
+            </p>
+    
+          </div>
+          {% include endorsements.html %}
         </div>
       </div>
     </section>
