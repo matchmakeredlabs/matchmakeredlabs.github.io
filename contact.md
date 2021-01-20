@@ -7,6 +7,6 @@ title: Contact Us!
 |-
 |-
 |**Phone:**|+1 (415) 612 - 1376
-|**Email:**|info@matchmakeredlabs.net
-|**URL:**|https://matchmakeredlabs.net/
+|**Email:**|[info@matchmakeredlabs.net](mailto:info@matchmakeredlabs.net)
+|**URL:**|[https://matchmakeredlabs.net](https://matchmakeredlabs.net/)
 
