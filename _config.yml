@@ -10,6 +10,7 @@ exclude:
   - .gitignore
   - .sass-cache/
   - .jekyll-cache/
+  - .vs/
 defaults:
   -
     scope:

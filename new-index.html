@@ -12,13 +12,13 @@ layout: none
     {% include navbar.html %}
 
     <!-- WELCOME -->
-    <section class="pt-6 pb-8">
+    <section class="pt-0 pb-8">
       <div class="container-lg">
         <div class="row justify-content-center">
           <div class="col-md-12 col-xl-10 text-center">
 
             <!-- Heading -->
-            <h1 class="display-4 mb-4">
+            <h1 class="display-4 mb-8">
               {{- site.data.text.tagPhrase }} 
               <span data-typed data-options='{"strings": [""
                 {%- for opt in site.data.text.tagOptions -%}
@@ -44,7 +44,7 @@ layout: none
 
 
     <!-- Card Stack -->
-    <section class="pt-10 pt-md-12 bg-dark">
+    <section class="pt-10 bg-dark">
       <div class="container-lg">
         <div class="row">
           <div class="col-12">
@@ -71,6 +71,28 @@ layout: none
             <!-- End Card Stack Section -->
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Supports -->
+    <section class="pt-4 bg-dark">
+      <div class="container-lg">
+        <div class="row">
+          <div class="col-md-5">
+    
+            <!-- Brand -->
+            <h2 class="font-family-serif text-white mb-1">
+              {{ site.data.text.siteName }}
+            </h2>
+    
+            <!-- Text -->
+            <p class="text-white-60">
+              {{ site.data.text.footerTagline }}
+            </p>
+    
+          </div>
+          {% include endorsements.html %}
         </div>
       </div>
     </section>
