@@ -21,6 +21,10 @@ $display2-size:               5.5rem;
 $display3-size:               3.0rem;
 $display4-size:               1.5rem;
 
+$line-height-base:            1.4;
+$line-height-lg:              1.4;
+$line-height-sm:              1.4;
+
 $display1-size-sm: 3rem; // 48px
 $display2-size-sm: 3rem; // 48px
 $display3-size-sm: 2rem; // 40px
@@ -39,8 +43,12 @@ $dark: $mm-darkblue;
 
 $navbar-brand-font-size: $display3-size;
 
+.card p {
+    margin-bottom: 1rem;
+}
+
 .card img {
-    height: 8em;
+    height: 10em;
     display: block;
     margin-left: auto;
     margin-right: auto;
