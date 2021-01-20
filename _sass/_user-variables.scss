@@ -25,6 +25,8 @@ $line-height-base:            1.4;
 $line-height-lg:              1.4;
 $line-height-sm:              1.4;
 
+$paragraph-margin-bottom:     1rem;
+
 $display1-size-sm: 3rem; // 48px
 $display2-size-sm: 3rem; // 48px
 $display3-size-sm: 2rem; // 40px
@@ -40,12 +42,7 @@ $danger: $mm-red;
 $light: #F3F8FF;
 $dark: $mm-darkblue;
 
-
 $navbar-brand-font-size: $display3-size;
-
-.card p {
-    margin-bottom: 1rem;
-}
 
 .card img {
     height: 10em;
@@ -58,4 +55,8 @@ $navbar-brand-font-size: $display3-size;
     text-decoration: underline;
     color: $mm-darkblue;
     cursor: pointer;
+}
+
+.card>:last-child {
+    margin-bottom: 0;
 }
