@@ -10,6 +10,6 @@ A Public Benefit Corporation (PBC) has a legal obligation to promote a public be
 	<li>An assessment of our success in meeting the objectives and promoting our identified public benefit.
 <ul><br/>
 
-We made the conscious decision to incorporate as a PBC to ensure that our larger goals are well aligned with those who choose to invest and collaborate with us. While we are a for-profit entity, we are committed to generating large scale, sustainable change in how people learn and the infrastructure that supports that learning by creating sustainable solutions for those who serve the Competency-based Learning Industry (CBLI).
+We made the conscious decision to incorporate as a PBC to ensure that our larger goals are well aligned with those who choose to invest and collaborate with us. While we are a for-profit entity, we are committed to generating large scale, sustainable change in how people learn and the infrastructure that supports that learning by creating sustainable solutions for those who serve the Competency-based Learning Industry (CBLI).<br/>
 
 MatchMaker Education Labs seeks to *Liberate Learning*™.
