@@ -4,9 +4,9 @@ title: MatchMaker Education Labs is a Public Benefit Corporation (PBC)
 A Public Benefit Corporation (PBC) has a legal obligation to promote a public benefit and operate in a responsible and sustainable manner. A ‘public benefit’ is defined as a positive effect (or reduction of negative effects) including, but not limited to, effects of an artistic, charitable, cultural, economic, educational, environmental, literary, medical, religious, scientific or technological nature. In our case, we are primarily committed to the educational goal to Liberate Learning™. Every two years we have to generate a Benefit Report that includes:
 
 <ul>
-	<li>The objectives established by the board of directors to promote our public benefit and best interests of those affected by our actions;<li>
-	<li>The standards adopted by the board to measure our progress towards these objectives;<li>
-	<li>Factual information based on those standards regarding our success in meeting our objectives; and</li>
+	<li>The objectives established by the board of directors to promote our public benefit and best interests of those affected by our actions;
+	<li>The standards adopted by the board to measure our progress towards these objectives;
+	<li>Factual information based on those standards regarding our success in meeting our objectives; and
 	<li>An assessment of our success in meeting the objectives and promoting our identified public benefit.</li>
 <ul>
 
