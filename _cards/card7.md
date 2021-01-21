@@ -3,7 +3,7 @@ title: Card6
 ---
 # MatchMaker Education Labs  
 
-## In collaboration with our customers and partners, we are *better together.*
+## MatchMaker builds a relationship with customers and partners and we are *better together.*
 
 *Static graphic with shade down:*
 
