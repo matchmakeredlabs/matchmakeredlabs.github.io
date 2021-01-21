@@ -18,7 +18,7 @@ title: Contact Us!
 
 <div markdown="1">
 
-Would you like to see your organizations learning resources matched to a wide variety and ever growing set of competencies frameworks?
+Would you like to see your organization's learning resources matched to a wide variety and ever growing set of competency frameworks?
 
 Would you like to be able to point to resources that address a particular set of competencies from within your existing or a new offering?
 
