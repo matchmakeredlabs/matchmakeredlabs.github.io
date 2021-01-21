@@ -20,7 +20,7 @@ title: Contact Us!
 
 Would you like to see your organization's learning resources matched to a wide variety and ever growing set of competency frameworks?
 
-Would you like to be able to point to resources that address a particular set of competencies from within your existing or a new offering?
+Would you like to be able to point to resources that address a particular set of competencies from within your existing or new offering?
 
 Would you like to be able to see how your course catalog relates to courses offered by other institutions?
 
