@@ -5,7 +5,7 @@ title: Card6
 
 ## In collaboration with our customers and partners, we are *better together.*
 
-BLAH *Enter MatchMaker Education Labs:*
+*Still graphic with shade down:*
 
 ![Alt Text for Sample Image](/mmassets/Uni-Transfer.svg)
 
