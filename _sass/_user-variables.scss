@@ -76,7 +76,10 @@ $navbar-brand-font-size: $display3-size;
 }
 
 .mm-endorsements>div {
-    height: 4rem;
     margin: 0.25rem;
     vertical-align: middle;
+}
+
+.mm-endorsements>div>img {
+    display: block;
 }
