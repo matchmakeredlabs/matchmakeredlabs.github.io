@@ -13,5 +13,4 @@ As a result of MatchMaker Education Labs’ rich matching technology, all partie
 1. The Veteran’s Administration successfully places veterans into civilian roles, as promised in the recruitment process.
 2. Civilian organizations (e.g., cities, hospitals, clinics, businesses, etc.) confidently hire qualified veterans (job candidates).
 3. Veterans (job candidates) seamlessly transition into the civilian job market.
-
-Win - Win - Win
+<p class="text-center"><strong>Win - Win - Win</strong></p>
