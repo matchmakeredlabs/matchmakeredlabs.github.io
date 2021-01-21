@@ -15,4 +15,4 @@ As a result of MatchMaker Education Labs’ rich matching technology, all partie
 2. Institutions and educators find the best resources to address their students’ needs.
 3. Students have access to learning resources that enable them to master required competencies.
 
-Win - Win - Win   
+<p class="text-center"><strong>Win - Win - Win</strong></p>  
