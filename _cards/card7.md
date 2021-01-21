@@ -1,9 +1,9 @@
 ---
 title: Card6
 ---
-# MatchMaker Education Labs:  
+# MatchMaker Education Labs  
 
-## in collaboration with our customers and partners, we are *better together*
+## In collaboration with our customers and partners, we are *better together.*
 
 BLAH *Enter MatchMaker Education Labs:*
 
