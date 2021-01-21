@@ -15,4 +15,4 @@ As a result of MatchMaker Education Labs’ rich matching technology, all partie
 2. With minimal institutional effort, students are able to continue working toward their degree while receiving credit for their prior work.
 3. Students can successfully navigate life’s obstacles with minimal impact on their ability to gain employment in their chosen field.  Notably, due to the transparency provided by the MatchMaker platform, employers receiving graduates know exactly what skills and competencies they are hiring into their organization.
 
-Win - Win - Win
+<p class="text-center"><strong>Win - Win - Win</strong></p>
