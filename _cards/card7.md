@@ -3,7 +3,7 @@ title: Card6
 ---
 # MatchMaker Education Labs  
 
-## By contextualizing data MatchMatcher yields meaningful data relationships:<br/>**MatchMaking!**
+## By contextualizing data, MatchMaker yields meaningful data relationships:<br/>**MatchMaking!**
 
 ![Alt Text for Sample Image](/mmassets/MM-Simple.svg){: style="height: 20em;"}
 
