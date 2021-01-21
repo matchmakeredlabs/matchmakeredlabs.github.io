@@ -7,6 +7,6 @@ title: Card6
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in a competency-based value chain win:
 
-1. Your Audience recieves ACTIONABLE insights from MatchMaker;<br/>YOU are able to efficiently and effectively respond to down-stream requirements. 
-2. Your Audience's Audience recieves ACTIONABLE insights from YOU;<br/>they are able to efficiently and effectively respond to down-stream requirements. 
-3. As a PBC commited to *liberating learning*, the Human Being (The Learner/Instructor, The Candidate/Employee, ETC.) completes the MatchMaker's B2B2H value chain.  They too recieve ACTIONABLE insights;<br/>empowering them to efficiently and effectively succeed in their chosen path!
+1. Your Audience recieves ACTIONABLE insights from MatchMaker.<br/>YOU are able to efficiently and effectively respond to down-stream requirements. 
+2. Your Audience's Audience recieves ACTIONABLE insights from YOU.<br/>they are able to efficiently and effectively respond to down-stream requirements. 
+3. As a PBC commited to *liberating learning*, the Human Being (The Learner/Instructor, The Candidate/Employee, ETC.) completes MatchMaker's B2B2H value chain.  They too recieve ACTIONABLE insights, empowering them to efficiently and effectively succeed in their chosen path!
