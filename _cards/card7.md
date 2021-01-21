@@ -3,7 +3,7 @@ title: Card6
 ---
 # MatchMaker Education Labs  
 
-## By 'sensatizing' data, we building solid relationships with our customers and partners. we are<br/> *Better Together!*
+## By 'sensitizing' data, we build powerful relationships with our customers and partners. <br/> *Better Together!*
 
 *Static graphic with shade down:*
 
