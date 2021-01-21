@@ -3,7 +3,7 @@ title: Card6
 ---
 # MatchMaker Education Labs  
 
-## Contextualizing Data for Stronger Relationships: *Meaningful Matches*
+## Contextualizing Data for Stronger Relationships: *MatchMaking!*
 
 ![Alt Text for Sample Image](/mmassets/MM-Simple.svg){: style="height: 20em;"}
 
