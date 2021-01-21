@@ -5,7 +5,7 @@ title: Card6
 
 ## In collaboration with our customers and partners, we are *better together.*
 
-*Still graphic with shade down:*
+*Static graphic with shade down:*
 
 ![Alt Text for Sample Image](/mmassets/Uni-Transfer.svg)
 
