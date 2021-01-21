@@ -1,7 +1,7 @@
 ---
 title: Card6
 ---
-# MatchMaker: Behind the Curtain of Contextualization
+# MatchMaker: Behind the Curtain of Contextual Awareness
 
 
 ![Alt Text for Sample Image](/mmassets/MM-Detail.svg){: style="height: 24em;"}
