@@ -4,7 +4,7 @@ title: Card6
 # MatchMaker: Behind the Curtain of Contextual Awareness
 
 
-![Alt Text for Sample Image](/mmassets/MM-Detail.svg){: style="height: 24em;"}
+![MatchMaker Complete Diagram](/mmassets/MM-Complete-v2.svg){: style="height: 24em;"}
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in a competency-based value chain win:
 

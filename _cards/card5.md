@@ -7,7 +7,7 @@ title: Card5
 
 The market is demanding the ability to quickly identify and personalize/customize learning resources such that instructors and students have just-in-time access to just-the-right learning resources. Unfortunately, current mapping solutions simply fall short of that aspiration. The result, your customers are unable to run a query that surfaces your compelling offering(s) which, in fact, best address their instructional needs.  *Enter MatchMaker Education Labs:*
 
-![Alt Text for Sample Image](/mmassets/Learner-Prob.svg)
+![MatchMaker Locate Learning Resource Diagram](/mmassets/Learner-Prob.svg)
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in learning resource access and retrieval value chain win:
 

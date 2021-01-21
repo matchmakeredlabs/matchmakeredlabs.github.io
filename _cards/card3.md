@@ -6,7 +6,7 @@ title: Card3
 
 Each year the Veteran’s Administration works diligently to place veterans into civilian roles. When there are known shortages in fields such as Emergency Medical Technicians (EMTs), all too often military certified skills are not readily accepted by organizations such as a city government seeking to hire EMTs. This is frequently the case even when a candidate is clearly over-qualified, has years of experience, but lacks a civilian certification. *Enter MatchMaker Education Labs:*
 
-![Alt Text for Sample Image](/mmassets/EMT.svg)
+![MatchMaker E M T Skills Match Diagram](/mmassets/EMT.svg)
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in the certification alignment value chain win.
 

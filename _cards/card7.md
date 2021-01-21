@@ -5,7 +5,7 @@ title: Card6
 
 ## By contextualizing data, MatchMaker yields meaningful data relationships:<br/>**MatchMaking!**
 
-![Alt Text for Sample Image](/mmassets/MM-Simple.svg){: style="height: 20em;"}
+![MatchMaker Simple Diagram](/mmassets/MM-Simple-v2.svg){: style="height: 14em;"}
 
 Collaborating with MatchMaker Education Labs is stress-free and highly-valuable:
 
