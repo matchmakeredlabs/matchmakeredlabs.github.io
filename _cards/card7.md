@@ -9,7 +9,7 @@ title: Card6
 
 ![Alt Text for Sample Image](/mmassets/Uni-Transfer.svg)
 
-Collaborating with MatchMaker Education Labs is comfortable and rewarding:
+Collaborating with MatchMaker Education Labs is both comforting and rewarding:
 
 **1. No Barrier to Entry and Easy Implementation**<br/>By building on your organization's existing skills and technologies, MatchMaker is not disruptive to your work or business. MatchMaker is turnkey. MatchMaker integrates with your existing infrastructure. 
 
