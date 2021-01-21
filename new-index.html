@@ -79,20 +79,23 @@ layout: none
     <section class="pt-4 bg-dark">
       <div class="container-lg">
         <div class="row">
-          <div class="col-md-5">
-    
-            <!-- Brand -->
-            <h2 class="font-family-serif text-white mb-1">
-              {{ site.data.text.siteName }}
-            </h2>
-    
-            <!-- Text -->
-            <p class="text-white-60">
-              {{ site.data.text.footerTagline }}
-            </p>
+          <div class="col-md">
+
+            <div class="text-right">
+              <!-- Brand -->
+              <h2 class="font-family-serif text-white mb-1">
+                {{ site.data.text.siteName }}
+              </h2>     
+              <!-- Text -->
+              <p class="text-white-60">
+                {{ site.data.text.footerTagline }}
+              </p>
+            </div>
     
           </div>
-          {% include endorsements.html %}
+          <div class="col-md">
+            {% include endorsements.html %}
+          </div>
         </div>
       </div>
     </section>
