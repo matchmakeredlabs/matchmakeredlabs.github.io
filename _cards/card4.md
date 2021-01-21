@@ -14,4 +14,4 @@ As a result of MatchMaker Education Labs’ rich matching technology, all partie
 2. Jurisdictions are able to purchase customized offerings which fully address their local needs.
 3. Instructors and students get access to learning resources that best address their State’s as well as local jurisdictional requirements.
 
-Win - Win - Win
+<p class="text-center"><strong>Win - Win - Win</strong></p>
