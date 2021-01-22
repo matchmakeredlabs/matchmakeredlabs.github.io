@@ -5,7 +5,7 @@ title: Card5
 
 ## The product offering addresses all of your customer’s requirements, yet it is not being used and the follow-on sale depends on usage rates
 
-The market is demanding the ability to quickly identify and personalize/customize learning resources such that instructors and students have just-in-time access to just-the-right learning resources. Unfortunately, current mapping solutions simply fall short of that aspiration. The result, your customers are unable to run a query that surfaces your compelling offering(s) which, in fact, best address their instructional needs.  *Enter MatchMaker Education Labs:*
+The market demands the ability to quickly identify and personalize/customize learning resources providing instructors and students just-in-time access to just-the-right learning resources. The current mapping solutions simply fall short of that aspiration. The result, your customers are unable to run a query that surfaces your compelling offering(s) which, in fact, best address their instructional needs.  *Enter MatchMaker Education Labs:*
 
 ![MatchMaker Locate Learning Resource Diagram](/mmassets/Learner-Prob.svg)
 
