@@ -2,7 +2,7 @@
 title: Card3
 ---
 # Scenario Job Transtion - Example Emergency Medical Technician
-## The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>city governments, hospitals, & technical schools use this functionality
+## The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>with confidence city governments, hospitals, & technical schools get rapid access to needed human resources
 
 
 Each year the Veteran’s Administration works diligently to place veterans into civilian roles. When there are known shortages in fields such as Emergency Medical Technicians (EMTs), all too often military certified skills are not readily accepted by organizations such as a city government seeking to hire EMTs. This is frequently the case even when a candidate is clearly over-qualified, has years of experience, but lacks a civilian certification. *Enter MatchMaker Education Labs:*
