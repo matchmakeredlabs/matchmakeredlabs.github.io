@@ -7,7 +7,10 @@ title: Card6
 
 ![MatchMaker Simple Diagram](/mmassets/MM-Simple-v2.svg){: style="height: 14em;"}
 
-Our customers and partners, implementing our B2B offering, find collaborating with MatchMaker Education Labs stress-free and highly-valuable:
+Our customers and partners, implementing our **B2B** 
+
+
+offering, find collaborating with MatchMaker Education Labs stress-free and highly-valuable:
 
 1. **No Barrier to Entry and Easy Implementation**<br/>**MatchMaker is turnkey**. By building on your organization's existing skills and technologies, MatchMaker fits seamlessly into your work and/or business. MatchMaker integrates with your existing infrastructure. 
 
