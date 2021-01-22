@@ -5,7 +5,7 @@ title: Card3
 ## The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>with confidence city governments, hospitals, & technical schools receive rapid access to qualified human resources (i.e., EMTs).
 
 
-Each year the Veteran’s Administration works diligently to place veterans into civilian roles. When there are known shortages in fields such as Emergency Medical Technicians (EMTs), all too often military certified skills are not readily accepted by organizations such as a city government seeking to hire EMTs. This is frequently the case even when a candidate is clearly over-qualified, has years of experience, but lacks a civilian certification. *Enter MatchMaker Education Labs:*
+Each year the Veterans Administration works diligently to place veterans into civilian roles. When there are known shortages in fields such as Emergency Medical Technicians (EMTs), military certified skills are often not readily accepted by organizations such as a city government seeking to hire EMTs. *Enter MatchMaker Education Labs:*
 
 ![MatchMaker E M T Skills Match Diagram](/mmassets/EMT.svg)
 
