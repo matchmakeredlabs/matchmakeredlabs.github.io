@@ -1,7 +1,7 @@
 ---
 title: Card3
 ---
-# Scenario A Job Transtion: Example Emergency Medical Technician (EMT)
+# Scenario Job Transtion - Example Emergency Medical Technician (EMT)
 ## The VA’s HR provider integrates MatchMaker & city governments, hospitals, & technical schools use this functionality
 
 
