@@ -1,7 +1,7 @@
 ---
 title: Card4
 ---
-# Scenario Product Development - Example Selling into Multiple Markets 
+# Scenario Product Development - Example Multiple Market Selling 
 
 ## A CBL-based learning resource provider employs MatchMaker to inform product development<br/>&<br/>a CBL-based educational institution can use MatchMaker to see how their needs are addressed
 
