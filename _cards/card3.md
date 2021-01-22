@@ -11,7 +11,7 @@ Each year the Veterans Administration works diligently to place veterans into ci
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in the certification alignment value chain win.
 
-1. The Veteran’s Administration successfully places veterans into civilian roles, as promised in the recruitment process.
+1. The Veterans Administration successfully places veterans into civilian roles, as promised in the recruitment process.
 2. Civilian organizations (e.g., cities, hospitals, clinics, businesses, etc.) confidently hire qualified veterans (job candidates).
 3. Veterans (job candidates) seamlessly transition into the civilian job market.
 <p class="text-center"><strong>Win - Win - Win</strong></p>
