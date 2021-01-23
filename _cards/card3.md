@@ -1,7 +1,7 @@
 ---
 title: Card3
 ---
-# Scenario Job Transtion - Example Emergency Medical Technician
+# Scenario Job Transtion - Case Emergency Medical Technician
 ## The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>with confidence, city governments, hospitals, & technical schools receive rapid access to qualified human resources (i.e., EMTs).
 
 
