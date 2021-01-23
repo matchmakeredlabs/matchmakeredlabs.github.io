@@ -17,4 +17,4 @@ As a result of MatchMaker Education Labs’ rich matching technology, all partie
 2. Trainers and employess find the best learning resources to address their Work Force Development (WFD) needs.
 3. Employees have access to learning resources that enable them to master required competencies.
 
-<p class="text-center"><strong>Win - Win - Win</strong></p>  
+
