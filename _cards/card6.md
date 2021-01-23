@@ -1,9 +1,9 @@
 ---
 title: Card6
 ---
-# Scenario Interoperable Institutional Requirements- Case Student Transfer
+# Scenario Institutional Completion Requirements- Case Transfer Credit Acceptance
 
-## Learning institutions need a streamlined method to assign credits to enable agile transfers of students<br/>&<br/>learning institution that wants to be able to describe learner competencies in an interoperable manner
+## For a myriad of reasons, students need to transfer between degree/credential-granting institutions<br/>&<br/>originating and recieving institutions struggle to effectively acknowledge learner competenices.  
 
 A student is pursuing a mechanical engineering degree at the University of Texas.  For family reasons, the student must relocate and will be transferring to the University of Vermont. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. Current solutions are inadequate to produce mappings from the University of Texas that the University of Vermont will accept. *Enter MatchMaker Education Labs:*
 
