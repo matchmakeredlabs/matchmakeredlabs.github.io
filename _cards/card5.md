@@ -1,11 +1,13 @@
 ---
 title: Card5
 ---
-# An Example of a Product Uptake Challenge:
+# Scenario Impoverished Product Uptake – Case Next Sale Dependency
 
-## The product offering addresses all of your customer’s requirements, yet it is not being used and the follow-on sale depends on usage rates
+## A employee training/platform company delivers a training program that meets all customer requirements &  in order to follow-on purchase, usage rates must exceed an uptake rate of 70%.
 
-The market demands the ability to quickly identify and personalize/customize learning resources providing instructors and students just-in-time access to just-the-right learning resources. The current mapping solutions simply fall short of that aspiration. The result, your customers are unable to run a query that surfaces your compelling offering(s) which, in fact, best address their instructional needs.  *Enter MatchMaker Education Labs:*
+
+An employee training/platform company mindfully crafted an employee training program for their top customer, a large retail chain. The training program addresses all of the customer’s requirements yet is not being widely used. The employee training market is demanding the ability to quickly identify and personalize training resources such that instructors and students have just-in-time access to just-the-right learning resources. Unfortunately, current solutions fall short of being able to offer true personalized learning pathways. The result, employers and employees are unable find content which best address their organization’s training needs. Enter MatchMaker Education Labs:
+*Enter MatchMaker Education Labs:*
 
 ![MatchMaker Locate Learning Resource Diagram](/mmassets/Learner-Prob.svg)
 
