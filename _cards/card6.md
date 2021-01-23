@@ -1,7 +1,7 @@
 ---
 title: Card6
 ---
-# Scenario Institutional Program Requirements - Case Transfer Credit Acceptance
+# Scenario Institutional Requisites - Case Transfer Credit Recognition
 
 ## For a myriad of reasons, students need to transfer between degree/credential-granting institutions<br/>&<br/>both the originating and receiving admissions offices struggle to effectively acknowledge learner competencies.  
 
