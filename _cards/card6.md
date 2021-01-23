@@ -1,11 +1,11 @@
 ---
 title: Card6
 ---
-# Scenario Institutional Completion Requirements - Case Transfer Credit Acceptance
+# Scenario Institutional Program Requirements - Case Transfer Credit Acceptance
 
 ## For a myriad of reasons, students need to transfer between degree/credential-granting institutions<br/>&<br/>both the originating and receiving admissions offices struggle to effectively acknowledge learner competencies.  
 
-A student is pursuing a mechanical engineering degree at the University of Texas is relocating and will be transferring to the University of Vienna. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. Currently, there is no way to confidently map completed course credits from the University of Texas to credentialling credits that the University of Vienna will accept. *Enter MatchMaker Education Labs:*
+A student is pursuing a mechanical engineering degree at the University of Texas is relocating and will be transferring to the University of Vienna. While both degree granting programs address the same competencies, each program documents those competencies using different language and structure. There is no way to confidently map completed course credits from the University of Texas to credentialing credits that the University of Vienna will accept. *Enter MatchMaker Education Labs:*
 
 ![MatchMaker University Transfer Diagram](/mmassets/Uni-Transfer.svg)
 
