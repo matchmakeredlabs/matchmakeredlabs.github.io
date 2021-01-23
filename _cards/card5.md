@@ -13,8 +13,8 @@ An employee training/platform company mindfully crafted an employee training pro
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in learning resource access and retrieval value chain win:
 
-1. Your pertinent product offerings will be found!
-2. Institutions and educators find the best resources to address their students’ needs.
-3. Students have access to learning resources that enable them to master required competencies.
+1. Compelling and pertinent product offerings can be easily found in erealtime to personalize the learning pathway.
+2. Trainers and employess find the best learning resources to address their Work Force Development (WFD) needs.
+3. Employees have access to learning resources that enable them to master required competencies.
 
 <p class="text-center"><strong>Win - Win - Win</strong></p>  
