@@ -3,7 +3,7 @@ title: Card4
 ---
 # Scenario Product Development - Example Multiple Market Selling 
 
-## A K-12 publisher employs MatchMaker to inform the development of a curricular offering<br/>&<br/>in order to purchase, several CBL-based K-12 jurisdictions must validate how well their needs are met by the assets
+## A K-12 publisher employs MatchMaker to inform the development of a curricular offering<br/>&<br/>in order to purchase, several CBL-based K-12 jurisdictions must validate how well their needs are met by the assets.
 
 Each year various states conduct textbook adoptions. While most States address largely the same standards, competencies, and skills, each jurisdiction documents their requirements (i.e., competencies/standards/skills) using different language and organization. Due to the nuanced differences between State’s Curriculum Standards, the mapping of competencies, skills, and requirements across various jurisdictions has proven extremely challenging and an ongoing cost for suppliers of learning resources. *Enter MatchMaker Education Labs:*
 ![MatchMaker Publisher Align Content Diagram](/mmassets/Product.svg)
