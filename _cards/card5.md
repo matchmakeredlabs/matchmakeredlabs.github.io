@@ -1,7 +1,7 @@
 ---
 title: Card5
 ---
-# Scenario Impoverished Product Uptake – Case Next Sale Dependency
+# Scenario Impoverished Product Uptake - Case Next Sale Dependency
 
 ## A employee training/platform company delivers a training program that meets all customer requirements <br/>&<br/>  in order to follow-on purchase, usage rates must exceed an uptake rate of 70%.
 
