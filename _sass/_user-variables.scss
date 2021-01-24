@@ -48,6 +48,10 @@ $navbar-brand-font-size: $display3-size;
     background-color: white;
 }
 
+.card h3 {
+    text-decoration: underline;
+}
+
 .card img {
     height: 10em;
     display: block;
