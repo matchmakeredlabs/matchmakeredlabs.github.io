@@ -13,5 +13,5 @@ title: Card6
 
 2. **MatchMaker is turnkey**. <br/>There are no barriers-to-entry and implementation is easy.  MatchMaker integrates with your existing infrastructure fitting seamlessly into your business work-flow by enabling the creation of detailed descriptors of your organization's competency-based assets and frameworks. 
 
-3. **MatchMaker enables scale and sustainability**.<br/>MatchMaker requires **one-time** creation of the descriptions of your competency-based assets and frameworks. Updates are automatic. No need to duplicate efforts. MatchMaker grows with your organization. Moreover, as MatchMaker's datalake fills with customer descriptors of their assets and/or frameworks, the better the results!
+3. **MatchMaker enables scale and sustainability**.<br/>MatchMaker requires **one-time** creation of the descriptions of your competency-based assets and frameworks. Updates are automatic. No need to duplicate efforts. MatchMaker grows with your organization. As MatchMaker's datalake fills with customer descriptors of their assets and/or frameworks, customer results get better and better!
 
