@@ -3,7 +3,7 @@ title: Card6
 ---
 # MatchMaker: Behind the Curtain of Contextual Awareness
 
-![MatchMaker Complete Diagram](/mmassets/MM-Detail.svg){: style="height: 24em;"}
+![MatchMaker Complete Diagram](/mmassets/MM-Detail.svg)
 
 As a result of MatchMaker Education Labs’ rich matching technology:
 

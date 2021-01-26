@@ -5,7 +5,7 @@ title: Card6
 
 ### By contextualizing data, MatchMaker yields meaningful data relationships:<br/>**MatchMaking!**
 
-![MatchMaker Simple Diagram](/mmassets/MM-Simple.svg){: style="height: 14em;"}
+![MatchMaker Simple Diagram](/mmassets/MM-Simple.svg)
 
 **MatchMaker produces Meaningful Matches (actionable, effective, accountable, and transparent)!**
 

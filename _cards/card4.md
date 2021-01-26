@@ -6,7 +6,7 @@ title: Card4
 ### A K-12 publisher employs MatchMaker to inform the development of a curricular offering<br/>&<br/>in order to purchase, several CBL-based K-12 jurisdictions must validate how well their needs are met by the assets.
 
 Each year various states conduct textbook adoptions. While most States address largely the same standards, competencies, and skills, each jurisdiction documents their requirements using different language and organizational structure. Due to the nuanced differences between state and local curricular standards, the mapping of competencies, skills, and requirements across various jurisdictions has proven time consuming and costly for suppliers of learning resources and services. *Enter MatchMaker Education Labs:*
-![MatchMaker Publisher Align Content Diagram](/mmassets/Product.svg)
+![MatchMaker Publisher Align Content Diagram](/mmassets/MM-Example-Product.svg)
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in the standards alignment value chain win:
 
