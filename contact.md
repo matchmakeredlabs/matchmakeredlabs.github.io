@@ -14,7 +14,7 @@ title: Contact Us!
     <tr><th>Email</th><td><a href="mailto:info@matchmakeredlabs.net">info@matchmakeredlabs.net</a></td></tr>
     <tr><th>URL</th><td><a href="https://matchmakeredlabs.net">https://matchmakeredlabs.net</a></td></tr>
     <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/matchmaker-education-labs">MatchMaker Education Labs</a></td></tr>
-    <tr><th>Mail</th><td>PO Box 118 Aptos CA 95001</td></tr>
+    <tr><th>Mail</th><td>PO Box 118, Aptos, CA, 95001</td></tr>
     </table>
 </div>
 
