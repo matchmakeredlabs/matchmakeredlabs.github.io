@@ -2,7 +2,7 @@
 title: MatchMaker Education Labs' Mission Driven Team
 ---
 
-**Michael Jay** - A founding member of Apple Classroom of Tomorrow and Founder and architect of the renowned organization, MediaSeek, Michael is a recognized learning industry leader. Success in driving scalable, sustainable improvement earned Michael the 2020 EdTech Industry Impact Award. Michael is highly skilled at assembling high performing teams that generate breakthrough solutions and make measurable differences in the lives of all learners.
+**Michael Jay** - A founding member of Apple Classroom of Tomorrow and Founder and architect of the renowned organization, MediaSeek, Michael is a recognized learning industry leader. Success in driving scalable, sustainable improvement earned Michael the 2020 EdTech Industry Impact Award. Michael is highly skilled at assembling high performing teams that generate breakthrough solutions and make measurable differences in the lives of all learners. (https://www.linkedin.com/in/michaelejay/)
 
 **Eileen Lento** - Former lead of the Education World-Wide Marketing and Advocacy Team at Intel Corporation, Eileen is a retired Air Force Officer and former faculty member in the School of Education and Social Policy at Northwestern University. Eileen brings a truly unique blend of expertise ranging from deep subject knowledge, proven business acumen, management-leadership know-how, and an entrepreneurial spirit. (www.linkedin.com/in/eileenlento)
 
