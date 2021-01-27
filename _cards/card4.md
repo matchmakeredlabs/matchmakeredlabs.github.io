@@ -1,7 +1,7 @@
 ---
 title: Card4
 ---
-# Scenario Product Development - Case Multi-Market Selling 
+# Scenario-Product Development : Case Multi-Market Selling 
 
 ### A K-12 publisher employs MatchMaker to inform the development of a curricular offering<br/>&<br/>in order to purchase, several CBL-based K-12 jurisdictions must validate how well their needs are met by the assets.
 
