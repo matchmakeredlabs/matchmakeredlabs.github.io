@@ -13,6 +13,6 @@ As a result of MatchMaker Education Labs’ rich matching technology, all partie
 
 1. Both the originating and the receiving institutions know exactly how applicants measure up to each set of program requirements.
 2. With minimal institutional effort, students can continue working toward their degree while receiving credit for their prior work.
-3. Employers receiving graduates know exactly what skills and competencies they are hiring into their organization. Students can more easily gain employment  in their chosen field.
+3. Employers receiving graduates know exactly what skills and competencies they are hiring into their organization. Students can more easily gain employment in their chosen field.
 
 
