@@ -5,11 +5,12 @@ title: Card6
 
 ![MatchMaker Complete Diagram](/mmassets/MM-Detail.svg)
 
-As a result of MatchMaker Education Labs’ rich matching technology:
+As a result of MatchMaker Education Labs’ rich matching technology, comprised of MatchMakers proprietary Intermediary and Inference Engine along with an expansive data-lake of descriptors:
 
 1. MatchMaker customers receive *actionable* insights from MatchMaker enabled descriptors of competency-based assets and frameworks. MatchMaker customers are empowered to efficiently and effectively respond to down-stream requirements.
 2. MatchMaker customers' audiences receive *actionable* insights from the  **integration and implementation**. They too are able to efficiently and effectively respond to down-stream requirements; a powerful halo-effect for MatchMaker's entire customer-base. 
-3. As the efficacy of MatchMaker literally grows as usage grows, through the many and varied integrations and implementations of MatchMaker customers, ultimately, each and every learner is empowered to succeed in their unique learning journey.
+
+As the efficacy of MatchMaker literally grows as usage grows, through the many and varied integrations and implementations of MatchMaker customers, ultimately, each and every learner is empowered to succeed in their unique learning journey.
 
 <p class="text-center">Together with our customers, MatchMaker Education Labs strives to <strong>Liberate Learning</strong>!</p>
 
