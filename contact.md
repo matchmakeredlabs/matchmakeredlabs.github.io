@@ -13,7 +13,7 @@ title: Contact Us!
     <tr><th>Phone</th><td>+1 (415) 612 - 1376</td></tr>
     <tr><th>Email</th><td><a href="mailto:info@matchmakeredlabs.net">info@matchmakeredlabs.net</a></td></tr>
     <tr><th>URL</th><td><a href="https://matchmakeredlabs.net">https://matchmakeredlabs.net</a></td></tr>
-    <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/matchmaker-education-labs">MatchMaker Education Labs, PBC</a></td></tr>
+    <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/matchmaker-education-labs">MatchMaker Education Labs</a></td></tr>
     </table>
 </div>
 
