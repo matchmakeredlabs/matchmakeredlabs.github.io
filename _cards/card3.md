@@ -1,7 +1,7 @@
 ---
 title: Card3
 ---
-# Scenario-Job Transtion : Case-Military to Civilian
+# Scenario: Job Transtion - Case: Military to Civilian
 
 ### The Veteran's Administration’s HR provider integrates MatchMaker<br/>&<br/>with confidence, city governments, hospitals, & technical schools receive rapid access to qualified human resources.
 
