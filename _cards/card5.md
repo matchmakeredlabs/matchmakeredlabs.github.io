@@ -1,7 +1,7 @@
 ---
 title: Card5
 ---
-# Scenario-Impoverished Product Uptake : Case-Next Sale Dependency
+# Scenario-Poor Product Uptake Rate : Case-Next Sale Dependency
 
 ### An employee training/platform company delivers a training program that meets all customer requirements <br/>&<br/>follow-on purchase, requires uptake rates to exceed 70% per year.
 
