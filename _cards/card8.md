@@ -7,7 +7,7 @@ title: Card6
 
 As a result of MatchMaker Education Labs’ rich matching technology:
 
-1. MatchMaker customers receive *actionable* insights from MatchMaker enabled descriptors of competency-based assets and frameworks. MatchMaker customers are empowered to efficiently and effectively respond to down-stream requirements.<br/>
+1. MatchMaker customers receive *actionable* insights from MatchMaker enabled descriptors of competency-based assets and frameworks. MatchMaker customers are empowered to efficiently and effectively respond to down-stream requirements.
 2. MatchMaker customers' audiences receive *actionable* insights from the  **integration and implementation**. They too are able to efficiently and effectively respond to down-stream requirements; a powerful halo-effect for MatchMaker's entire customer-base. 
 3. As the efficacy of MatchMaker literally grows as usage grows, through the many and varied integrations and implementations of MatchMaker customers, ultimately, each and every learner is empowered to succeed in their unique learning journey.
 
