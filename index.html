@@ -1,99 +1,106 @@
-<!DOCTYPE html>
-<!-- saved from url=(0029)https://matchmakeredlabs.net/ -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MatchMaker Education Labs</title>
+---
+title: MatchMaker Education Labs
+layout: none
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{ page.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include navbar.html %}
 
-<meta name="description" content="MatchMaker Education Labs">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="MatchMaker Education Labs">
-<meta property="og:description" content="MatchMaker Education Labs PBC Primary Site">
-<meta property="og:image" content="https://matchmakeredlabs.net/legacy/MMEL_Logo.png">
-<meta property="og:site_name" content="MatchMaker Education Labs">
-<link rel="stylesheet" type="text/css" media="all" href="./legacy/MMEL.css">
-<link rel="icon" type="image/png" href="./legacy/MM-16.png">
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+    <!-- WELCOME -->
+    <section class="pt-0 pb-8">
+      <div class="container-lg">
+        <div class="row justify-content-center">
+          <div class="col-md-12 col-xl-10 text-center">
 
-</head>
+            <!-- Heading -->
+            <h1 class="display-4 mb-8">
+              {{- site.data.text.tagPhrase }} 
+              <span data-typed data-options='{"strings": [""
+                {%- for opt in site.data.text.tagOptions -%}
+                  ,"{{- opt | escape -}}"
+                {%- endfor -%}
+                ]}'>
+              </span>
+            </h1>
 
-<body>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="text-center">
 
-    <div id="frame">
-        <!-- Header Bar -->
-<header>
-
-	<!-- logo -->
-	<div class="siteblock">
-	    <h1><a href="https://matchmakeredlabs.net/"><img src="./legacy/MMEL_Logo.png" alt="Match Maker Education Labs Logo" width="300"></a></h1>
-        <!--<h2>Subtitle</h2>-->
-	</div>
-
-	<!-- main navigation -->	
-    <!--
-	<div class="menu">
-        <ul>
-            <li><a href="/page1.html">One</a></li>
-            <li><a href="/page2.html">Two</a></li>
-        </ul>
-	</div>
-    -->
-</header>
-
-        <main>
-            <article>
-                <p>MatchMaker Education Labs™ next generation, B2B SaaS-licensed cloud-delivered platform enables our customers to customize their offerings. By empowering contextualization, our customers free their customers and stakeholders from the limitations of existing 1:1 mapping engines and contextually insensitive AI tools.</p>
-
-<p>MMEdLabs’ innovative suite enables:</p>
-
-<ul>
-  <li><strong>learning resource providers</strong> in any standards/competency-based learning segment to develop and deliver on-demand access to just the ‘right’ learning resources and</li>
-
-  <li><strong>credentialing agencies</strong> to certify skills mastered across disparate credentialing/certifying agencies (e.g. military to civilian jurisdiction, California to New York, etc.).</li>
-</ul>
-
-<p>In much the same way that Pandora’s Music Genome Project has helped transform the way music is consumed, by managing enhanced associations, MMEdLabs facilitates the transformation the capabilities of the of Learning and Credentialing Industry.  MM enables:</p>
-
-<ol>
-  <li>the creation, assembly, management, delivery of customized learning assets.</li>
-
-  <li>the validation of equivalent skills and competencies across disparate credentialing/certifying frameworks.</li> 
-</ol>
-
-<p>Built to scale, MMEdLab’s solution can be skinned to support any standards/competency-based learning asset 
-offering or framework to a wide-range of targeted market segments, e.g., higher education and corporate learning.</p>
-
-<p style="text-align: center;"><img style="width: 95%;" src="./legacy/MMProcess.png" alt="MatchMaker Process Diagram"></p>
-
-<p>Serving the <strong>learning resource</strong> as well as the <string>credentialing</string> industries, MMEdLabs’ technology stack is a cloud platform and offers RESTful Web Services and Web Components. MMEdLabs’ revolutionary middleware technology-suite accurately captures and represents the complexity of learning activities improving the ability to create, search, and/or retrieve the ‘right’ resources as well as acknowledge what each learner already knows.  MMEdLabs’ offering is highly extensible enabling a wide-range of <em>vertically-tuned match-making offerings</em> all based on MM’s:</p>
-
-<ol>
-    <li>unique intermediary-based tagging process that leverages automation advances in Data Science via AI and ML,</li>
-    <li>data-lake of learning asset and competency/standard descriptions governed to optimize analytics, and</li>
-    <li>state-of-art inference engine which utilizes multi-faceted ‘tunable’ algorithms to provide flexibility and specificity not previously available to the learning market.</li>
-</ol>
-
-<p>Not merely a larger data-set, MM’s robust set of “keys” unlock big data-like affordances such as the capacity to draw data-based inferences. For <strong>learning resource providers</strong>, MMEdLabs middleware reduces development costs and offers rapid scaling; facilitating the agile integration of MMEdLabs’ services into customer partner offerings designed for any targeted Learning Segment. MMEdLabs’ describe once solution fits into our customers’ existing business processes – increasing the value throughout targeted learning ecosystems (e.g., K12, Hi-Ed, corporate learning, etc.) enabling safe and secure next generation content creation, assembly, and discovery solutions. For <strong>credentialing and certifying agencies</strong> such as human resources, school districts, accrediting boards, and state agencies, MMEdLabs middleware provides an accurate representation of skills/credentials already mastered or still required ensuring accountability as well as legitimacy of credits granted. This can, in turn, be used for job placement or to identify qualifying and on-going education needs.</p>
-
-<h2 style="margin-top: 1.2em;">Extensible and Cost Effective.</h2>
-
-<p>MMEdLabs’ offerings can be customized to identify a broad range of well- targeted learning assets as well as adeptly identify equivalent skills and competencies in any Learning and Credentialing Segment. Solutions built on MMEdLabs middleware reduce development costs and offer rapid scaling and facilitates the rapid incorporation of MMEdLabs’ services into partner solutions. MMEdLabs’ describe once solution fits into customers’ existing business processes - increasing the value throughout the learning ecosystem and enabling safe and secure next generation content creation, assembly, and discovery solutions. Moreover, the value to ALL participants in the MM value chain grows as more customers and partners take advantage of this powerful offering.</p>
-
-            </article>
-        </main>
-        <footer>
-    <div style="max-width: 40em; margin: auto;">
-        <a href="./tellmemore.html">Contact Us</a>
-        <!-- Copyright and License go here. -->
-    </div>
-
-    <!-- Google Analytics or other analytics go here. -->
-</footer>
-
-    </div>
+            <!-- Text -->
+            <p class="lead text-muted">
+              {{- site.data.text.leadLine -}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
+    <!-- Card Stack -->
+    <section class="pt-10 bg-dark">
+      <div class="container-lg">
+        <div class="row">
+          <div class="col-12">
 
+            <!-- Decoration -->
+            <div class="position-absolute top-center top-md-left text-warning mt-n8 ml-md-n8">
+              <svg width="185" height="186" viewBox="0 0 185 186" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="2" cy="2" r="2" fill="currentColor"/><circle cx="22" cy="2" r="2" fill="currentColor"/><circle cx="42" cy="2" r="2" fill="currentColor"/><circle cx="62" cy="2" r="2" fill="currentColor"/><circle cx="82" cy="2" r="2" fill="currentColor"/><circle cx="102" cy="2" r="2" fill="currentColor"/><circle cx="122" cy="2" r="2" fill="currentColor"/><circle cx="142" cy="2" r="2" fill="currentColor"/><circle cx="162" cy="2" r="2" fill="currentColor"/><circle cx="182" cy="2" r="2" fill="currentColor"/><circle cx="2" cy="22" r="2" fill="currentColor"/><circle cx="22" cy="22" r="2" fill="currentColor"/><circle cx="42" cy="22" r="2" fill="currentColor"/><circle cx="62" cy="22" r="2" fill="currentColor"/><circle cx="82" cy="22" r="2" fill="currentColor"/><circle cx="102" cy="22" r="2" fill="currentColor"/><circle cx="122" cy="22" r="2" fill="currentColor"/><circle cx="142" cy="22" r="2" fill="currentColor"/><circle cx="162" cy="22" r="2" fill="currentColor"/><circle cx="182" cy="22" r="2" fill="currentColor"/><circle cx="2" cy="42" r="2" fill="currentColor"/><circle cx="22" cy="42" r="2" fill="currentColor"/><circle cx="42" cy="42" r="2" fill="currentColor"/><circle cx="62" cy="42" r="2" fill="currentColor"/><circle cx="82" cy="42" r="2" fill="currentColor"/><circle cx="102" cy="42" r="2" fill="currentColor"/><circle cx="122" cy="42" r="2" fill="currentColor"/><circle cx="142" cy="42" r="2" fill="currentColor"/><circle cx="162" cy="42" r="2" fill="currentColor"/><circle cx="182" cy="42" r="2" fill="currentColor"/><circle cx="2" cy="62" r="2" fill="currentColor"/><circle cx="22" cy="62" r="2" fill="currentColor"/><circle cx="42" cy="62" r="2" fill="currentColor"/><circle cx="62" cy="62" r="2" fill="currentColor"/><circle cx="82" cy="62" r="2" fill="currentColor"/><circle cx="102" cy="62" r="2" fill="currentColor"/><circle cx="122" cy="62" r="2" fill="currentColor"/><circle cx="142" cy="62" r="2" fill="currentColor"/><circle cx="162" cy="62" r="2" fill="currentColor"/><circle cx="182" cy="62" r="2" fill="currentColor"/><circle cx="2" cy="82" r="2" fill="currentColor"/><circle cx="22" cy="82" r="2" fill="currentColor"/><circle cx="42" cy="82" r="2" fill="currentColor"/><circle cx="62" cy="82" r="2" fill="currentColor"/><circle cx="82" cy="82" r="2" fill="currentColor"/><circle cx="102" cy="82" r="2" fill="currentColor"/><circle cx="122" cy="82" r="2" fill="currentColor"/><circle cx="142" cy="82" r="2" fill="currentColor"/><circle cx="162" cy="82" r="2" fill="currentColor"/><circle cx="182" cy="82" r="2" fill="currentColor"/><circle cx="2" cy="102" r="2" fill="currentColor"/><circle cx="22" cy="102" r="2" fill="currentColor"/><circle cx="42" cy="102" r="2" fill="currentColor"/><circle cx="62" cy="102" r="2" fill="currentColor"/><circle cx="82" cy="102" r="2" fill="currentColor"/><circle cx="102" cy="102" r="2" fill="currentColor"/><circle cx="122" cy="102" r="2" fill="currentColor"/><circle cx="142" cy="102" r="2" fill="currentColor"/><circle cx="162" cy="102" r="2" fill="currentColor"/><circle cx="182" cy="102" r="2" fill="currentColor"/><circle cx="2" cy="122" r="2" fill="currentColor"/><circle cx="22" cy="122" r="2" fill="currentColor"/><circle cx="42" cy="122" r="2" fill="currentColor"/><circle cx="62" cy="122" r="2" fill="currentColor"/><circle cx="82" cy="122" r="2" fill="currentColor"/><circle cx="102" cy="122" r="2" fill="currentColor"/><circle cx="122" cy="122" r="2" fill="currentColor"/><circle cx="142" cy="122" r="2" fill="currentColor"/><circle cx="162" cy="122" r="2" fill="currentColor"/><circle cx="182" cy="122" r="2" fill="currentColor"/><circle cx="2" cy="142" r="2" fill="currentColor"/><circle cx="22" cy="142" r="2" fill="currentColor"/><circle cx="42" cy="142" r="2" fill="currentColor"/><circle cx="62" cy="142" r="2" fill="currentColor"/><circle cx="82" cy="142" r="2" fill="currentColor"/><circle cx="102" cy="142" r="2" fill="currentColor"/><circle cx="122" cy="142" r="2" fill="currentColor"/><circle cx="142" cy="142" r="2" fill="currentColor"/><circle cx="162" cy="142" r="2" fill="currentColor"/><circle cx="182" cy="142" r="2" fill="currentColor"/><circle cx="2" cy="162" r="2" fill="currentColor"/><circle cx="22" cy="162" r="2" fill="currentColor"/><circle cx="42" cy="162" r="2" fill="currentColor"/><circle cx="62" cy="162" r="2" fill="currentColor"/><circle cx="82" cy="162" r="2" fill="currentColor"/><circle cx="102" cy="162" r="2" fill="currentColor"/><circle cx="122" cy="162" r="2" fill="currentColor"/><circle cx="142" cy="162" r="2" fill="currentColor"/><circle cx="162" cy="162" r="2" fill="currentColor"/><circle cx="182" cy="162" r="2" fill="currentColor"/><circle cx="2" cy="182" r="2" fill="currentColor"/><circle cx="22" cy="182" r="2" fill="currentColor"/><circle cx="42" cy="182" r="2" fill="currentColor"/><circle cx="62" cy="182" r="2" fill="currentColor"/><circle cx="82" cy="182" r="2" fill="currentColor"/><circle cx="102" cy="182" r="2" fill="currentColor"/><circle cx="122" cy="182" r="2" fill="currentColor"/><circle cx="142" cy="182" r="2" fill="currentColor"/><circle cx="162" cy="182" r="2" fill="currentColor"/><circle cx="182" cy="182" r="2" fill="currentColor"/></svg>
+            </div>
 
-</body></html>
+            <!-- Stack -->
+            <div class="card-stack">
+
+              {%- for card in site.cards -%}
+
+              <!-- Card -->
+              <div class="card-stack-item mb-9">
+                <div class="card mmcard rounded overflow-hidden p-3">
+                  {{ card.content }}
+                </div>
+              </div>
+
+              {%- endfor -%}
+
+            <!-- End Card Stack Section -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Supports -->
+    <section class="pt-4 bg-dark">
+      <div class="container-lg">
+        <div class="row">
+          <div class="col-md">
+
+            <div class="text-right" style="width: fit-content;">
+              <!-- Brand -->
+              <h2 class="font-family-serif text-white mb-1">
+                {{ site.data.text.siteName }}
+              </h2>     
+              <!-- Text -->
+              <p class="text-white-60">
+                {{ site.data.text.footerTagline }}
+              </p>
+            </div>
+    
+          </div>
+          <div class="col-md">
+            {% include endorsements.html %}
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
