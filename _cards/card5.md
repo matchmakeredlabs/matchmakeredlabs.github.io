@@ -13,7 +13,7 @@ An employee training platform company crafted an employee training program for t
 
 As a result of MatchMaker Education Labs’ rich matching technology, all parties in learning pathway value chain win:
 
-1. In realtime, the compelling and pertinent product offerings of MatchMaker customers can be easily found in order  to personalize each unique learning pathway.
+1. The training platform company ensures that their compelling and pertinent content can be easily found in real-time in order to personalize each unique learning pathway.
 2. Employers find the best learning resources to address their Work Force Development (WFD) needs.
 3. Employees have access to learning resources that enable them to master required competencies.
 
