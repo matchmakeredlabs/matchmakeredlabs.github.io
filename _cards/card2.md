@@ -9,4 +9,5 @@ To date, mapping technologies used by competency-based learning organizations to
 ![MatchMaker Function Diagram](/mmassets/MM-Simple-List.svg)
 
 MatchMaker Education Labs' highly extensible **B2B** offering **enables** a wide-range of ecosystem participants to benefit from 
-high quality matches. Let’s explore how MatchMaker enables our customers, by examining a few very specific cases of common high-level scenarios from across the CBLI landscape…
+high quality matches. Let’s explore how MatchMaker enables our customers, by examining 
+a few very specific cases of common high-level scenarios from across the CBLI landscape…
