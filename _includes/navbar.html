@@ -1,91 +1,76 @@
 <!-- NAVBAR -->
-<nav class="navbar navbar-expand-lg navbar-light">
-    <div class="container-lg">
+<nav class="mm-navbar">
+    <div>
+        <a href="/">Home</a>
+    </div>
 
-        <!-- Brand -->
-        <a class="navbar-brand d-xl-none" href="./index.html">
-            {{ site.data.text.siteName }}<br />
-            <img style="width: 10rem;" src="/mmassets/MM_Logo.png" />
+    <div class="dropdown">
+        <a href="#" role="botton" data-toggle="dropdown"
+           aria-haspopup="true" aria-expanded="false" id="sDropdown">
+           The MatchMaker Solution
         </a>
-
-        <!-- Toggler
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button> -->
-
-        <!-- Left-side Logo (for full size) -->
-        <a class="d-none d-xl-block" style="width: 10rem;" href="/index">
-            <img style="width: 10rem;" src="/mmassets/MM_Logo.png" />
-        </a>
-
-        <!-- Brand -->
-        <a class="navbar-brand d-none d-xl-block px-lg-6" href="./index">
-            {{ site.data.text.siteName }}
-        </a>
-
-        <!-- Navigation -->
-        <div class="nav-item dropdown" style="width: 10rem">
-            <a class="nav-link dropdown-toggle" id="aboutDropdown" href="#" role="button" data-toggle="dropdown"
-                aria-haspopup="true" aria-expanded="false">
-                <span class="navbar-toggler-icon"></span>
-            </a>
-            <div class="dropdown-positioner" style="width: 25em; position: relative; left:-10em;">
-                <div class="dropdown-menu dropdown-menu-lg" aria-labelledby="docsDropdown">
-                    <a class="d-flex align-items-center text-reset text-decoration-none mt-5" href="./about">
-
-                        <!-- Icon -->
-                        <div class="icon text-primary-light">
-                            {% include person.svg %}
-                        </div>
-
-                        <div class="ml-3">
-
-                            <!-- Heading -->
-                            <h6 class="text-uppercase text-primary mb-0">
-                                The MatchMaker Team
-                            </h6>
-
-                        </div>
-
-                    </a>
-                    <a class="d-flex align-items-center text-reset text-decoration-none mt-5" href="./pbc">
-
-                        <!-- Icon -->
-                        <div class="icon text-primary-light">
-                            {% include plant.svg %}
-                        </div>
-
-                        <div class="ml-3">
-
-                            <!-- Heading -->
-                            <h6 class="text-uppercase text-primary mb-0">
-                                MatchMaker is a PBC
-                            </h6>
-
-                        </div>
-
-                    </a>
-                    <a class="d-flex align-items-center text-reset text-decoration-none mt-5" href="./contact.html">
-
-                        <!-- Icon -->
-                        <div class="icon text-primary-light">
-                            {% include communicate.svg %}
-                        </div>
-
-                        <div class="ml-3">
-
-                            <!-- Heading -->
-                            <h6 class="text-uppercase text-primary mb-0">
-                                Contact MatchMaker
-                            </h6>
-
-                        </div>
-
-                    </a>
-                </div>
-
+        <div>
+            <div class="dropdown-menu mm-dropdown-menu" aria-labelledby="sDropdown">
+                {%- assign menu = site.Solution | sort: 'ordinal' -%}
+                {%- for post in menu -%}
+                <!-- d-flex align-items-center text-reset text-decoration-none mt-5 -->
+                <a class="" href="{{ post.url }}">
+                    <div class="icon">
+                        {% include svg/{{ post.icon}}.svg %}
+                    </div>
+                    <div>
+                        {{ post.menu }}
+                    </div>
+                </a>
+                {%- endfor -%}
             </div>
         </div>
-
     </div>
+
+    <div class="dropdown">
+        <a href="#" role="botton" data-toggle="dropdown"
+           aria-haspopup="true" aria-expanded="false" id="aDropdown">
+           MatchMaker In Action
+        </a>
+        <div>
+            <div class="dropdown-menu mm-dropdown-menu" aria-labelledby="aDropdown">
+                {%- assign menu = site.Action | sort: 'ordinal' -%}
+                {%- for post in menu -%}
+                <!-- d-flex align-items-center text-reset text-decoration-none mt-5 -->
+                <a class="" href="{{ post.url }}">
+                    <div class="icon">
+                        {% include svg/{{ post.icon}}.svg %}
+                    </div>
+                    <div>
+                        {{ post.menu }}
+                    </div>
+                </a>
+                {%- endfor -%}
+            </div>
+        </div>
+    </div>
+
+    <div class="dropdown">
+        <a href="#" role="botton" data-toggle="dropdown"
+           aria-haspopup="true" aria-expanded="false" id="aDropdown">
+           About Us
+        </a>
+        <div>
+            <div class="dropdown-menu mm-dropdown-menu" aria-labelledby="aDropdown">
+                {%- assign menu = site.About | sort: 'ordinal' -%}
+                {%- for post in menu -%}
+                <!-- d-flex align-items-center text-reset text-decoration-none mt-5 -->
+                <a class="" href="{{ post.url }}">
+                    <div class="icon">
+                        {% include svg/{{ post.icon}}.svg %}
+                    </div>
+                    <div>
+                        {{ post.menu }}
+                    </div>
+                </a>
+                {%- endfor -%}
+            </div>
+        </div>
+    </div>
+
 </nav>

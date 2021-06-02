@@ -23,9 +23,35 @@ defaults:
       type: "cards"
     values:
       layout: "card"
+  -
+    scope:
+      path: ""
+      type: "Solution"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "Action"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "About"
+    values:
+      layout: "default"
 collections:
   cards:
+    output: false
+  Solution:
     output: true
-    permalink: /cards/:path.html
+    permalink: /Solution/:path.html
+  Action:
+    output: true
+    permalink: /Action/:path.html
+  About:
+    output: true
+    permalink: /About/:path.html
 sass:
   sass_dir: _sass
