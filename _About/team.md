@@ -11,4 +11,4 @@ ordinal: 1
 
 **Brandt Redd** – Former CTO of the Smarter Balanced Assessment Consortium, Brandt is a successful serial entrepreneur, CTO, and acclaimed education technology visionary. Brandt has shepherded four startups including Agilix and Ancestry to profitability. Renowned for expertise that spans from the strategic to the highly technical, Brandt is a recognized community leader and influencer in technology standards associated with education. <a href="https://www.linkedin.com/in/brandtredd" target="_blank">LinkedIn</a>
 
-**Dev Team** -- Bogdan Yaremenko, Stefan Chirica, Yonatan Ahituv
+**Dev Team** -- Bogdan Yaremenko, Stefan Chirica, Yonatan Ahituv, Aileen Tang
